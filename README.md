@@ -9,6 +9,7 @@ Download manga as batches from mangareader.net.
 3. Open terminal at the repository folder
 4. Enter the following command: python MangaDownloader.py --site [url] --start [(Chapter to start downloading in integer)-1] --stop [Chapter to stop downloading in integer] --folder [Path To Destination Folder]
 5. All parameters in above command except --site are optional
+6. The manga chapters will be downloaded as .cbz files to destination folder. You can view these files using YACReader or any CBZ Viewer.
      
 
 ### Libraries Used:
