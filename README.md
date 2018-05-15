@@ -1,6 +1,6 @@
 # AnimeMangaDownloader
 
-Download manga as batches from mangareader.net.
+Download manga as batches from mangareader.net and anime from 9anime.to.
 
 ## MangaDownloader
 ### Usage:
